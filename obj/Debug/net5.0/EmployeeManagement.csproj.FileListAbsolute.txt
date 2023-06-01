@@ -1,0 +1,211 @@
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\appsettings.json
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.exe
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.deps.json
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.runtimeconfig.json
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.runtimeconfig.dev.json
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.pdb
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.Views.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.Views.pdb
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorAssemblyInfo.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorAssemblyInfo.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\scopedcss\bundle\EmployeeManagement.styles.css
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.TagHelpers.input.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.TagHelpers.output.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorCoreGenerate.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorTargetAssemblyInfo.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorTargetAssemblyInfo.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.Views.pdb
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\ref\EmployeeManagement.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.pdb
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.CopyComplete
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\libman.json
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\EmployeeNotFound.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\ref\EmployeeManagement.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.xml
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\nlog.config
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\NLog.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\AccessDenied.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\nlog.config
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\appsettings.json
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\libman.json
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.exe
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.deps.json
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.runtimeconfig.json
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.runtimeconfig.dev.json
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\ref\EmployeeManagement.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.pdb
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.Views.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\EmployeeManagement.Views.pdb
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\NLog.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorAssemblyInfo.cache
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorAssemblyInfo.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.Manifest.cache
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\staticwebassets\EmployeeManagement.StaticWebAssets.xml
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\scopedcss\bundle\EmployeeManagement.styles.css
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.TagHelpers.input.cache
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.TagHelpers.output.cache
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorCoreGenerate.cache
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\AccessDenied.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\EditRole.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\EditUser.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\EditUsersInRole.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\ListRoles.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\ListUsers.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\ManageUserClaims.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Administration\ManageUserRoles.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\EmployeeNotFound.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Home\_ViewStart.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Shared\NotFound.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorTargetAssemblyInfo.cache
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.RazorTargetAssemblyInfo.cs
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.Views.pdb
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.csproj.CopyComplete
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\ref\EmployeeManagement.dll
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.pdb
+C:\Users\ShraddhaVerma\Desktop\Shraddha Trianing\.net Training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\ChangePasswordConfirmation.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\AddPassword.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\AddPasswordConfirmation.cshtml.g.cs
+C:\Users\ShraddhaVerma\Desktop\.net training\kudVenkat\EmployeeManagement\EmployeeManagement\obj\Debug\net5.0\Razor\Views\Account\AccountLocked.cshtml.g.cs
